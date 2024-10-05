@@ -1,0 +1,37 @@
+DSA in Java - LeetCode Solutions
+Welcome to my Data Structures and Algorithms (DSA) repository! This repository contains solutions to various LeetCode problems implemented in the Java programming language. Each solution is written with the aim to be clean, efficient, and well-optimized.
+
+📝 Repository Structure
+The repository is organized by the type of data structure or algorithm, and within each category, you'll find different LeetCode problems solved. Some categories you may find include:
+
+Arrays
+Linked Lists
+Recursion
+Sorting and Searching
+Hash Tables
+Bit Manipulation
+Stacks
+Each folder or file is named after the problem it solves, following LeetCode’s naming conventions for easy reference.
+
+💻 Technologies Used
+Language: Java
+Platform: LeetCode
+Concepts Covered: DSA topics like sorting, searching, recursion, and more I am in a journey to cover all the topics.
+📂 How to Use
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/DSA-Java-LeetCode.git
+Navigate to the specific directory to view the code for a problem.
+
+🚀 Goals
+Practice and improve my DSA skills.
+Share clean, well-documented code with others learning DSA in Java.
+Track my LeetCode progress.
+
+Feel free to fork this repository and submit pull requests if you have suggestions for optimizations or alternative solutions. Feedback is always welcome!
+
+📧 Contact
+dynaster21@gmail.com
+If you have any questions or suggestions, please don't hesitate to reach out.
